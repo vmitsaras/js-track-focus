@@ -1,0 +1,16 @@
+{
+  "name": "js-track-focus",
+  "title": "js-track-focus",
+  "main": "track-focus.js",
+  "description": "Check if the Child-Elements on any Parent have focus",
+  "version": "1.0.0",
+  "homepage": "https://github.com/vmitsaras/js-track-focus",
+  "license": "MIT",
+  "author": {
+    "name": "Vasileios Mitsaras",
+    "twitter": "vmitsaras",
+    "github": "vmitsaras",
+    "email": "github@vasilis.co",
+    "url": "http://vasilis.co"
+  }
+}

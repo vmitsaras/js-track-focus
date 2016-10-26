@@ -1,0 +1,18 @@
+{
+  "name": "js-track-focus",
+  "version": "0.1.0",
+  "main": [
+    "track-focus.js"
+  ],
+  "authors": [
+    "Vasileios Mitsaras"
+  ],
+  "ignore": [
+    "**/.*"
+  ],
+  "keywords": [
+    "accessible",
+    "focus"
+  ],
+  "license": "MIT"
+}
